@@ -90,3 +90,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 # QR-code-component-reto1
 Primer desafío de Frontend Mentor QR code component
 >>>>>>> 584ad7c3dfec655cd9a97be9be6f0abe792613e2
+# QR-code-component-reto1
